@@ -4,7 +4,7 @@ export const profile = {
   email: 'pranavbhongale18@gmail.com',
   github: 'https://github.com/PranavBhongale',
   linkedin: 'www.linkedin.com/in/pranav-bhongale-a89440335',
-  resume: ''
+  resume: '/resume.pdf'
 };
 
 // repo: add the URL once the project has something worth showing.

@@ -1,9 +1,9 @@
 // Fill these in before publishing. Empty values are hidden on the page.
 export const profile = {
   name: 'Pranav Bhongale',
-  email: '',
-  github: '',
-  linkedin: '',
+  email: 'pranavbhongale18@gmail.com',
+  github: 'https://github.com/PranavBhongale',
+  linkedin: 'www.linkedin.com/in/pranav-bhongale-a89440335',
   resume: ''
 };
 

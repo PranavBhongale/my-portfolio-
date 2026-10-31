@@ -1,29 +1,7 @@
 # Engineering Portfolio
 
-A responsive personal portfolio built with React and Vite, focused on hardware design, computer architecture, and AI accelerators.
+This is my personal engineering portfolio, built using React and Vite.
 
-## Run locally
+I created it to showcase my engineering projects, technical skills, and learning journey, with a particular focus on hardware design, computer architecture, VLSI, and AI accelerators.
 
-Requirements: Node.js and npm.
-
-```bash
-npm install
-npm run dev
-```
-
-Open the local URL printed by Vite.
-
-## Production build
-
-```bash
-npm run build
-npm run preview
-```
-
-## Before publishing
-
-Edit `src/content.js`: add your email, GitHub, LinkedIn and résumé links, and a `repo` URL for each project. Empty values are hidden on the page.
-
-## Deploy
-
-Import this repository into Vercel. Vercel should detect Vite automatically. Build command: `npm run build`. Output directory: `dist`.
+The portfolio includes my projects, technical interests, and work related to computer architecture and NPU design.
